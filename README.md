@@ -12,15 +12,4 @@ A simple command-line implementation of the classic **Snakes and Ladders** game 
 - Victory detection
 - Clear console output for game status
 
-## 🚀 Getting Started
-
-### Prerequisites
-
-- GCC or any C compiler
-- Terminal or command prompt
-
-### Compilation
-
-```bash
-gcc main.c -o snakes_and_ladders
 
